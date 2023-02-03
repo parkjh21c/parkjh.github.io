@@ -34,3 +34,40 @@ header {
 }
 
 /* 메인 */
+
+main {
+  width: 100%;
+  height: 850px;
+  background-color: pink;
+  clear: both;
+}
+
+#TetrisGame {
+  float: left;
+  width: 600px;
+  height: 100%;
+  background-color: black;
+}
+
+#nextBlock {
+  float: left;
+  width: 300px;
+  height: 500px;
+  background-color: purple;
+}
+
+#game_information {
+  float: left;
+  width: 300px;
+  height: 350px;
+  background-color: red;
+}
+
+/* 풋터 */
+
+footer {
+  width: 100%;
+  height: 50px;
+  background-color: green;
+  clear: both;
+}
