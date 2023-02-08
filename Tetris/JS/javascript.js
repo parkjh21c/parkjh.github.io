@@ -1,5 +1,3 @@
-// 함수 형태로 저장하여 html에서 적용
-
 // 즉시 실행 함수 사용하여 이름 받기
 (function() {
   var userName = prompt("이름을 입력하세요!");
